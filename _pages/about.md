@@ -21,12 +21,12 @@ More details are in my <a href="/files/cv.pdf"> CV</a>.
 
 ---
 
-June 2021: Our paper 'Tackling Attribute Fine-grainedness in Cross-modal Fashion Search with Multi-level Features' was accepted to SIGIR 2021 Workshop on eCommerce.
+**June 2021**: Our paper 'Tackling Attribute Fine-grainedness in Cross-modal Fashion Search with Multi-level Features' was accepted to SIGIR 2021 Workshop on eCommerce.
 
 ---
 
-* June 2020: Our paper 'Analyzing and Predicting Purchase Intent in E-commerce: Anonymous vs. Identified Customers' was accepted to SIGIR 2020 Workshop on eCommerce.
+**June 2020**: Our paper 'Analyzing and Predicting Purchase Intent in E-commerce: Anonymous vs. Identified Customers' was accepted to SIGIR 2020 Workshop on eCommerce.
 
 ---
 
-* **April 2020**: I will be attending MLSS 2020.
+**April 2020**: I will be attending MLSS 2020.
