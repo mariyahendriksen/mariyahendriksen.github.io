@@ -11,30 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Artificial Intelligence and Information Retrieval, University of Amsterdam University, 2019-present
+  * Research group: <a href="http://irlab.science.uva.nl">Information Retrieval Lab (IRLab) </a>
+  * Supervisors: <a href="https://staff.fnwi.uva.nl/m.derijke/">Maarten de Rijke</a>, <a href="https://pgroth.com/"> Paul Groth </a>
+* MSc in Artificial Intelligence, KU Leuven, 2017-2019
+* BSc in Computational Linguistics, Novosibirsk State University, 2012-2016
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Intern at <a href="https://liir.cs.kuleuven.be/"> Language Intelligence and Information Retrieval Lab (LIIR) </a>, Sep 2018 - Feb 2019
+  * Topic: Dialogue Breakdown Detection in Chatbots
+  * Supervisors: <a href="https://scholar.google.com/citations?user=6LJOqYwAAAAJ&hl=nl"> Artuur Leeuwenberg </a>, <a href="https://people.cs.kuleuven.be/~sien.moens/"> Marie-Francine Moens </a>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Fellow at ETH Zurich Biomedical Informatics Lab
+  * Topic: parallel and distributed training of deep mixture of experts for metagenomic DNA classification.
 
 Publications
 ======
@@ -54,6 +45,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Community Service
 ======
-* Currently signed in to 43 different slack teams
+* PC member: SIGIR eCommerce 2020-21
+* Volunteer: NeurIPS’20, ICML'20, ICLR'20, SIGIR'19
+* Reviewer: NeurIPS, CIKM, SIGIR
+* Organizing virtual visits at IRLab
+* Onboarding new colleagues at IRLab
