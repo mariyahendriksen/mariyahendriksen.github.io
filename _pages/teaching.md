@@ -4,9 +4,9 @@ title: "Teaching and Supervision"
 ---
 ## Teaching
 
-2021-22 — Teaching assistant for Deep Learning 1, MSc Artificial Intelligence, University of Amsterdam
+2021-22 — Teaching assistant for [Deep Learning 1](https://uvadlc.github.io/), MSc Artificial Intelligence, University of Amsterdam
 
-2020-21 — Teaching assistant for Deep Learning, MSc Artificial Intelligence, University of Amsterdam
+2020-21 — Teaching assistant for [Deep Learning](https://uvadlc.github.io/), MSc Artificial Intelligence, University of Amsterdam
 
 ---
 

@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+The most recent version of my CV is available [here](/files/cv.pdf).
+
 Education
 ======
 * Ph.D. in Artificial Intelligence and Information Retrieval, University of Amsterdam University, 2019-present
@@ -26,24 +28,6 @@ Work experience
 
 * Research Fellow at ETH Zurich Biomedical Informatics Lab
   * Topic: parallel and distributed training of deep mixture of experts for metagenomic DNA classification.
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Community Service
 ======

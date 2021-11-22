@@ -16,7 +16,7 @@ Earlier, I earned a bachelor's degree in [Computational Linguistics](https://edu
 More details are in my <a href="/files/cv.pdf"> CV</a>.
 
 
-### NEWS
+## NEWS
 **November 2021**: Our paper 'Extending CLIP for Category-to-image Retrieval in E-commerce' was accepted as a full paper at ECIR 2022. Paper and details will be shared soon.
 
 ---
