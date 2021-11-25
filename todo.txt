@@ -1,0 +1,11 @@
+Done:
+- Added news section
+- Started with publications sections
+- Fixed news
+
+Doing:
+- Fix publications
+
+To do:
+- fix blog posts
+- fix portfolio
