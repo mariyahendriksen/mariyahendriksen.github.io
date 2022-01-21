@@ -3,6 +3,8 @@ permalink: /publications/
 title: "Publications"
 ---
 
+**Mariya Hendriksen**. Multimodal Retrieval in E-commerce: from Categories to Images, Text, and Back. In ECIR 2022: 44th European Conference on Information Retrieval. Springer, April 2022 [[paper](/files/DC_note.pdf)]
+
 **Mariya Hendriksen**, Maurits Bleeker, Svitlana Vakulenko, Nanne van Noord, Ernst Kuiper, and Maarten de Rijke. Extending CLIP for Category-to-image Retrieval in E-commerce. In ECIR 2022: 44th European Conference on Information Retrieval. Springer, April 2022 [[paper](/files/ecir22.pdf)] [[code](https://github.com/mariyahendriksen/ecir2022_category_to_image_retrieval)]
 
 Goei, Kenneth, **Mariya Hendriksen**, and Maarten de Rijke. Tackling Attribute Fine-grainedness in Cross-modal
