@@ -5,7 +5,7 @@ title: "Publications"
 
 **Mariya Hendriksen**. Multimodal Retrieval in E-commerce: from Categories to Images, Text, and Back. In ECIR 2022: 44th European Conference on Information Retrieval. Springer, April 2022 [[paper](/files/DC_note.pdf)]
 
-**Mariya Hendriksen**, Maurits Bleeker, Svitlana Vakulenko, Nanne van Noord, Ernst Kuiper, and Maarten de Rijke. Extending CLIP for Category-to-image Retrieval in E-commerce. In ECIR 2022: 44th European Conference on Information Retrieval. Springer, April 2022 [[paper](/files/ecir22.pdf)] [[code](https://github.com/mariyahendriksen/ecir2022_category_to_image_retrieval)]
+**Mariya Hendriksen**, Maurits Bleeker, Svitlana Vakulenko, Nanne van Noord, Ernst Kuiper, and Maarten de Rijke. Extending CLIP for Category-to-image Retrieval in E-commerce. In ECIR 2022: 44th European Conference on Information Retrieval. Springer, April 2022 [[paper](/files/ecir22.pdf)] [[code](https://github.com/mariyahendriksen/ecir2022_category_to_image_retrieval)][[slides](/files/ecir_22_slides.pdf)][[poster](/files/wids_22_poster.pdf)]
 
 Goei, Kenneth, **Mariya Hendriksen**, and Maarten de Rijke. Tackling Attribute Fine-grainedness in Cross-modal
 Fashion Search with Multi-level Features. In Proceedings of the 2021 SIGIR Workshop on eCommerce. July 2021 [[paper](/files/MLF.pdf)][[code](https://github.com/jantje676/cross-modal)]

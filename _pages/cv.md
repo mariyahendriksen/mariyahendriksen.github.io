@@ -28,11 +28,10 @@ Work experience
 
 * Research Fellow at ETH Zurich Biomedical Informatics Lab
   * Topic: parallel and distributed training of deep mixture of experts for metagenomic DNA classification.
-  
+
 Community Service
 ======
 * PC member: SIGIR eCommerce 2020-21
 * Volunteer: NeurIPS’20, ICML'20, ICLR'20, SIGIR'19
 * Reviewer: NeurIPS, CIKM, SIGIR
-* Organizing virtual visits at IRLab
 * Onboarding new colleagues at IRLab
