@@ -17,15 +17,16 @@ More details are in my [CV](/files/cv.pdf).
 
 
 ## NEWS
+**June 3, 2022**: I gave a talk about the paper ['Extending CLIP for Category-to-image Retrieval in E-commerce'](/files/ecir22.pdf) in Amazon Luxembourg.
+
+---
 **December 10, 2021**: Happy to share that work ['Multimodal Retrieval in E-commerce: from Categories to Images, Text, and Back'](/files/DC_note.pdf) was accepted for presentation at the ECIR 2022 Doctoral Consortium.
 
 ---
 **November 19, 2021**: Our paper ['Extending CLIP for Category-to-image Retrieval in E-commerce'](/files/ecir22.pdf) was accepted as a full paper at ECIR 2022.
 
 ---
-
 **June 10, 2020**: Our paper ['Analyzing and Predicting Purchase Intent in E-commerce: Anonymous vs. Identified Customers'](/files/sigir20.pdf) was accepted to SIGIR 2020 Workshop on eCommerce.
 
 ---
-
 **April 28, 2020**: I will be attending MLSS 2020.
