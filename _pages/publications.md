@@ -3,6 +3,8 @@ permalink: /publications/
 title: "Publications"
 ---
 
+**Mariya Hendriksen**, Viggo Overes. Unimodal vs. Multimodal Siamese Networks for Outfit Completion, July 2022 [[paper](/files/sigir2022_ecom.pdf)]
+
 **Mariya Hendriksen**. Multimodal Retrieval in E-commerce: from Categories to Images, Text, and Back. In ECIR 2022: 44th European Conference on Information Retrieval. Springer, April 2022 [[paper](/files/DC_note.pdf)]
 
 **Mariya Hendriksen**, Maurits Bleeker, Svitlana Vakulenko, Nanne van Noord, Ernst Kuiper, and Maarten de Rijke. Extending CLIP for Category-to-image Retrieval in E-commerce. In ECIR 2022: 44th European Conference on Information Retrieval. Springer, April 2022 [[paper](/files/ecir22.pdf)] [[code](https://github.com/mariyahendriksen/ecir2022_category_to_image_retrieval)][[slides](/files/ecir_22_slides.pdf)][[poster](/files/wids_22_poster.pdf)]

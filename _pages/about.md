@@ -17,6 +17,9 @@ More details are in my [CV](/files/cv.pdf).
 
 
 ## NEWS
+---
+**July 15, 2022**: Viggo Overes and I participated in Fashion Outfits Challenge, part of SIGIR 2022 Workshop on eCommerce. We published the paper ['Unimodal vs. Multimodal Siamese Networks for Outfit Completion'](/files/sigir2022_ecom.pdf) detailing our solution.
+---
 **June 3, 2022**: I gave a talk about the paper ['Extending CLIP for Category-to-image Retrieval in E-commerce'](/files/ecir22.pdf) in Amazon Luxembourg.
 
 ---
