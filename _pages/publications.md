@@ -3,7 +3,9 @@ permalink: /publications/
 title: "Publications"
 ---
 
-**Mariya Hendriksen**, Viggo Overes. Unimodal vs. Multimodal Siamese Networks for Outfit Completion, July 2022 [[paper](/files/sigir2022_ecom.pdf)]
+**Mariya Hendriksen**, Viggo Overes. Unimodal vs. Multimodal Siamese Networks for Outfit Completion, July 2022 [[paper](/files/sigir22_ecom.pdf)]
+
+
 
 **Mariya Hendriksen**. Multimodal Retrieval in E-commerce: from Categories to Images, Text, and Back. In ECIR 2022: 44th European Conference on Information Retrieval. Springer, April 2022 [[paper](/files/DC_note.pdf)]
 
