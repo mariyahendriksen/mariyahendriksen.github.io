@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [Information retrieval lab](http://irlab.science.uva.nl) at the University of Amsterdam. I work on text-image retrieval for e-commerce. I am supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Paul Groth](https://pgroth.com/).
+I am a Ph.D. student at [The Information Retrieval Lab](http://irlab.science.uva.nl) at the University of Amsterdam. I work on multimodal retrieval for e-commerce. I am supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Paul Groth](https://pgroth.com/).
 
 I hold a master's degree in Artificial Intelligence from Katholieke Universiteit Leuven (KU Leuven) in Belgium. During my master's, I interned at [LIIR at KU Leuven](https://liir.cs.kuleuven.be/) under supervision of [Artuur Leeuwenberg](https://scholar.google.com/citations?user=6LJOqYwAAAAJ&hl=nl) and [Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/). Apart from that, in summer 2018, I interned at ETH Zurch with [Gunnar Rätsch](https://scholar.google.com/citations?user=tQuQ1FwAAAAJ).
 Before my master's, I got a bachelor's degree in [Computational Linguistics](https://education.nsu.ru/linguistics/) at Novosibirsk State University (Novosibirsk, Russia). I grew up about 1200 km to the north of Novosibirsk, close to the Arctic Circle.
