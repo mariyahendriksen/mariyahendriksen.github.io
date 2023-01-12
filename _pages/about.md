@@ -20,7 +20,7 @@ More details are in my [CV](/files/cv.pdf).
 ## NEWS
 
 ---
-**November 15, 2022**: I have started my internship in Alexa at Amazon Science in London.
+**November 15, 2022**: I have started my internship in Alexa at Amazon Science in London. I am collaborating with Emine Yilmaz and Gabriella Kazai.
 
 ---
 **July 15, 2022**: Our team participated in Fashion Outfits Challenge, part of SIGIR 2022 Workshop on eCommerce. We published the paper ['Unimodal vs. Multimodal Siamese Networks for Outfit Completion'](/files/sigir22_ecom.pdf) detailing our solution.
