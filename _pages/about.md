@@ -16,8 +16,13 @@ I was born in Ukraine and grew up in the Far North of Siberia, Russia.
 
 More details are in my [CV](/files/cv.pdf).
 
+Feel free to reach out for research discussions, collaborations or to have a chat!
+
 
 ## NEWS
+
+---
+**December 13, 2022**: Happy to share that our paper [Scene-centric vs. Object-centric Image-Text Cross-modal Retrieval: A Reproducibility Study](/files/ecir23.pdf) got accepted at ECIR 2023. See you in Dublin!
 
 ---
 **November 15, 2022**: I have started my internship in Alexa at Amazon Science in London. I am collaborating with Emine Yilmaz and Gabriella Kazai.

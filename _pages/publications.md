@@ -1,10 +1,13 @@
 ---
 permalink: /publications/
-title: "Publications"
 ---
 
-**Mariya Hendriksen**, Viggo Overes. Unimodal vs. Multimodal Siamese Networks for Outfit Completion, July 2022 [[paper](/files/sigir22_ecom.pdf), [code](https://github.com/mariyahendriksen/OutfitComposition)]
 
+
+**Mariya Hendriksen**, Svitlana Vakulenko, Ernst Kuiper, and Maarten de Rijke. Scene-centric vs. Object-centric Image-Text Cross-modal Retrieval: A Reproducibility Study. In ECIR 2023: 45th European Conference on Information Retrieval. Springer, April 2023 [[paper](/files/ecir23.pdf), [code](https://github.com/mariyahendriksen/ecir23-object-centric-vs-scene-centric-CMR)]
+
+
+**Mariya Hendriksen**, Viggo Overes. Unimodal vs. Multimodal Siamese Networks for Outfit Completion, July 2022 [[paper](/files/sigir22_ecom.pdf), [code](https://github.com/mariyahendriksen/OutfitComposition)]
 
 
 **Mariya Hendriksen**. Multimodal Retrieval in E-commerce: from Categories to Images, Text, and Back. In ECIR 2022: 44th European Conference on Information Retrieval. Springer, April 2022 [[paper](/files/DC_note.pdf)]
