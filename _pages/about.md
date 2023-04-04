@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [The Information Retrieval Lab](http://irlab.science.uva.nl) at the University of Amsterdam. I work on multimodal retrieval for e-commerce. I am supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Paul Groth](https://pgroth.com/).
+I am a Ph.D. student at [The IRLab](http://irlab.science.uva.nl) at the University of Amsterdam. I work on multimodal retrieval for e-commerce. I am supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Paul Groth](https://pgroth.com/).
 
-I hold a master's degree in Artificial Intelligence from Katholieke Universiteit Leuven (KU Leuven) in Belgium. During my master's, I interned at [LIIR at KU Leuven](https://liir.cs.kuleuven.be/) under supervision of [Artuur Leeuwenberg](https://scholar.google.com/citations?user=6LJOqYwAAAAJ&hl=nl) and [Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/). Apart from that, in summer 2018, I interned at ETH Zurch with [Gunnar Rätsch](https://scholar.google.com/citations?user=tQuQ1FwAAAAJ).
+I hold a master's degree in Artificial Intelligence from KU Leuven, Belgium. 
+During my Ph.D., I interned at Amazon Alexa with Svitlana Vakulenko and Emine Yilmaz.
+During my master's, I interned at [LIIR at KU Leuven](https://liir.cs.kuleuven.be/) under supervision of [Artuur Leeuwenberg](https://scholar.google.com/citations?user=6LJOqYwAAAAJ&hl=nl) and [Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/). Apart from that, in summer 2018, I interned at ETH Zurch with [Gunnar Rätsch](https://scholar.google.com/citations?user=tQuQ1FwAAAAJ).
 Before my master's, I got a bachelor's degree in [Computational Linguistics](https://education.nsu.ru/linguistics/) at Novosibirsk State University (Novosibirsk, Russia).
 I was born in Ukraine and grew up in the Far North of Siberia, Russia.
 
 More details are in my [CV](/files/cv.pdf).
 
-Feel free to reach out for research discussions, collaborations or to have a chat!
+Feel free to reach out for research discussions, collaborations or just to have a chat!
 
 
 ## NEWS
@@ -25,7 +27,7 @@ Feel free to reach out for research discussions, collaborations or to have a cha
 **December 13, 2022**: Happy to share that our paper [Scene-centric vs. Object-centric Image-Text Cross-modal Retrieval: A Reproducibility Study](/files/ecir23.pdf) got accepted at ECIR 2023. See you in Dublin!
 
 ---
-**November 15, 2022**: I have started my internship in Alexa at Amazon Science in London. I am collaborating with Emine Yilmaz and Gabriella Kazai.
+**November 15, 2022**: I have started my internship in Alexa at Amazon Science in London. I am collaborating with Svitlana Vakulenko and Emine Yilmaz
 
 ---
 **July 15, 2022**: Our team participated in Fashion Outfits Challenge, part of SIGIR 2022 Workshop on eCommerce. We published the paper ['Unimodal vs. Multimodal Siamese Networks for Outfit Completion'](/files/sigir22_ecom.pdf) detailing our solution.
