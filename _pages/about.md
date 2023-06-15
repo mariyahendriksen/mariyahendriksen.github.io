@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [The IRLab](http://irlab.science.uva.nl) at the University of Amsterdam. I work on multimodal retrieval for e-commerce. I am supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Paul Groth](https://pgroth.com/).
+I am a Ph.D. student at [The IRLab](http://irlab.science.uva.nl) at the University of Amsterdam where I work on multimodal retrieval. I am supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and very fortunate to be mentored by [Andrew Yates](https://andrewyates.net/) and [Svitlana Vakulenko](https://svakulenk0.github.io).
 
-I hold a master's degree in Artificial Intelligence from KU Leuven, Belgium. 
-During my Ph.D., I interned at Amazon Alexa with Svitlana Vakulenko and Emine Yilmaz.
+I hold a master's degree in Artificial Intelligence from KU Leuven, Belgium.
+During my Ph.D., I interned at Amazon Alexa with Gabriella Kazai and Emine Yilmaz.
 During my master's, I interned at [LIIR at KU Leuven](https://liir.cs.kuleuven.be/) under supervision of [Artuur Leeuwenberg](https://scholar.google.com/citations?user=6LJOqYwAAAAJ&hl=nl) and [Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/). Apart from that, in summer 2018, I interned at ETH Zurch with [Gunnar Rätsch](https://scholar.google.com/citations?user=tQuQ1FwAAAAJ).
 Before my master's, I got a bachelor's degree in [Computational Linguistics](https://education.nsu.ru/linguistics/) at Novosibirsk State University (Novosibirsk, Russia).
 I was born in Ukraine and grew up in the Far North of Siberia, Russia.
