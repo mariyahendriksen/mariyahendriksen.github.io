@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [The IRLab](http://irlab.science.uva.nl) at the University of Amsterdam where I work on multimodal retrieval. I have a good fortunate to be supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and mentored by [Andrew Yates](https://andrewyates.net/) and [Svitlana Vakulenko](https://svakulenk0.github.io).
+I am a Ph.D. student at [The IRLab](http://irlab.science.uva.nl) at the University of Amsterdam where I work on multimodal retrieval. I have a good fortune to be supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/), and mentored by [Andrew Yates](https://andrewyates.net/) and [Svitlana Vakulenko](https://svakulenk0.github.io).
 
 I hold a master's degree in Artificial Intelligence from KU Leuven, Belgium.
 During my Ph.D., I interned at Amazon Alexa with Gabriella Kazai and Emine Yilmaz.
