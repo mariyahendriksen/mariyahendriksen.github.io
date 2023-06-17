@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [The IRLab](http://irlab.science.uva.nl) at the University of Amsterdam where I work on multimodal retrieval. I am supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and very fortunate to be mentored by [Andrew Yates](https://andrewyates.net/) and [Svitlana Vakulenko](https://svakulenk0.github.io).
+I am a Ph.D. student at [The IRLab](http://irlab.science.uva.nl) at the University of Amsterdam where I work on multimodal retrieval. I have a good fortunate to be supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and mentored by [Andrew Yates](https://andrewyates.net/) and [Svitlana Vakulenko](https://svakulenk0.github.io).
 
 I hold a master's degree in Artificial Intelligence from KU Leuven, Belgium.
 During my Ph.D., I interned at Amazon Alexa with Gabriella Kazai and Emine Yilmaz.
@@ -24,10 +24,13 @@ Feel free to reach out for research discussions, collaborations or just to have 
 ## NEWS
 
 ---
+**Jun 16, 2023**: I will be doing a research internship at Bloomberg AI in London from July and until October.
+
+---
 **December 13, 2022**: Happy to share that our paper [Scene-centric vs. Object-centric Image-Text Cross-modal Retrieval: A Reproducibility Study](/files/ecir23.pdf) got accepted at ECIR 2023. See you in Dublin!
 
 ---
-**November 15, 2022**: I have started my internship in Alexa at Amazon Science in London. I am collaborating with Svitlana Vakulenko and Emine Yilmaz
+**November 15, 2022**: I have started an internship in Alexa at Amazon Science in London. I am collaborating with Svitlana Vakulenko, Gabriella Kazai, and Emine Yilmaz.
 
 ---
 **July 15, 2022**: Our team participated in Fashion Outfits Challenge, part of SIGIR 2022 Workshop on eCommerce. We published the paper ['Unimodal vs. Multimodal Siamese Networks for Outfit Completion'](/files/sigir22_ecom.pdf) detailing our solution.
