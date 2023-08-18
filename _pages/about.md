@@ -24,7 +24,7 @@ Feel free to reach out for research discussions, collaborations or just to have 
 ## NEWS
 
 ---
-**Jun 16, 2023**: I will be doing a research internship at Bloomberg AI in London from July and until October.
+**Jul 3, 2023**: I have started my research internship at Bloomberg AI in London. I am working with [Shuo Zhang](https://imsure318.github.io). If anyone in London wants to meet/chat, please reach out!
 
 ---
 **December 13, 2022**: Happy to share that our paper [Scene-centric vs. Object-centric Image-Text Cross-modal Retrieval: A Reproducibility Study](/files/ecir23.pdf) got accepted at ECIR 2023. See you in Dublin!
