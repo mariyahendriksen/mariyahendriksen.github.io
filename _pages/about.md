@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+[In London until middle of October. if anyone wants to meet/chat, please reach out!]
+
 I am a Ph.D. student at [The IRLab](http://irlab.science.uva.nl) at the University of Amsterdam where I work on multimodal retrieval. I have a good fortune to be supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/), and mentored by [Andrew Yates](https://andrewyates.net/) and [Svitlana Vakulenko](https://svakulenk0.github.io).
 
 I hold a master's degree in Artificial Intelligence from KU Leuven, Belgium.
@@ -18,19 +20,19 @@ I was born in Ukraine and grew up in the Far North of Siberia, Russia.
 
 More details are in my [CV](/files/cv.pdf).
 
-Feel free to reach out for research discussions, collaborations or just to have a chat!
+Feel free to reach out for research discussions, collaborations or just to have a chat. 
 
 
 ## NEWS
 
 ---
-**Jul 3, 2023**: I have started my research internship at Bloomberg AI in London. I am working with [Shuo Zhang](https://imsure318.github.io). If anyone in London wants to meet/chat, please reach out!
+**Jul 3, 2023**: I have started my research internship at Bloomberg AI in London. I am collaborating with [Shuo Zhang](https://imsure318.github.io), [https://scholar.google.com/citations?user=iJALtJ0AAAAJ&hl=en](Ridho Reinanda), [https://scholar.google.com/citations?user=IxlyrFgAAAAJ&hl=en](Mohamed Yahya), and [https://scholar.google.com/citations?user=vb6YKF0AAAAJ&hl=en](Edgar Meij).
 
 ---
 **December 13, 2022**: Happy to share that our paper [Scene-centric vs. Object-centric Image-Text Cross-modal Retrieval: A Reproducibility Study](/files/ecir23.pdf) got accepted at ECIR 2023. See you in Dublin!
 
 ---
-**November 15, 2022**: I have started an internship in Alexa at Amazon Science in London. I am collaborating with Svitlana Vakulenko, Gabriella Kazai, and Emine Yilmaz.
+**November 15, 2022**: I have started an internship in Alexa at Amazon Science in London. I am collaborating with [Svitlana Vakulenko](https://svakulenk0.github.io), Gabriella Kazai, and Emine Yilmaz.
 
 ---
 **July 15, 2022**: Our team participated in Fashion Outfits Challenge, part of SIGIR 2022 Workshop on eCommerce. We published the paper ['Unimodal vs. Multimodal Siamese Networks for Outfit Completion'](/files/sigir22_ecom.pdf) detailing our solution.
