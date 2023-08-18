@@ -26,7 +26,7 @@ Feel free to reach out for research discussions, collaborations or just to have 
 ## NEWS
 
 ---
-**Jul 3, 2023**: I have started my research internship at Bloomberg AI in London. I am collaborating with [Shuo Zhang](https://imsure318.github.io), [https://scholar.google.com/citations?user=iJALtJ0AAAAJ&hl=en](Ridho Reinanda), [https://scholar.google.com/citations?user=IxlyrFgAAAAJ&hl=en](Mohamed Yahya), and [https://scholar.google.com/citations?user=vb6YKF0AAAAJ&hl=en](Edgar Meij).
+**Jul 3, 2023**: I have started my research internship at Bloomberg AI in London. I am collaborating with [Shuo Zhang](https://imsure318.github.io), [Ridho Reinanda](https://scholar.google.com/citations?user=iJALtJ0AAAAJ&hl=en), [Mohamed Yahya)(https://scholar.google.com/citations?user=IxlyrFgAAAAJ&hl=en), and [Edgar Meij](https://scholar.google.com/citations?user=vb6YKF0AAAAJ&hl=en).
 
 ---
 **December 13, 2022**: Happy to share that our paper [Scene-centric vs. Object-centric Image-Text Cross-modal Retrieval: A Reproducibility Study](/files/ecir23.pdf) got accepted at ECIR 2023. See you in Dublin!
