@@ -10,12 +10,11 @@ redirect_from:
 
 [In London until middle of October. if anyone wants to meet/chat, please reach out!]
 
-I am a Ph.D. student at [The IRLab](http://irlab.science.uva.nl) at the University of Amsterdam where I work on multimodal retrieval. I have a good fortune to be supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/), and mentored by [Andrew Yates](https://andrewyates.net/) and [Svitlana Vakulenko](https://svakulenk0.github.io).
+I am a Ph.D. student at [The IRLab](http://irlab.science.uva.nl) at the University of Amsterdam where I work on multimodal retrieval. I am supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/), and mentored by [Andrew Yates](https://andrewyates.net/) and [Svitlana Vakulenko](https://svakulenk0.github.io).
 
-I hold a master's degree in Artificial Intelligence from KU Leuven, Belgium.
+I hold a master's degree in Artificial Intelligence from KU Leuven, Belgium and a bachelor's degree in [Computational Linguistics](https://education.nsu.ru/linguistics/) from Novosibirsk State University (Novosibirsk, Russia).
 During my Ph.D., I interned at Amazon Alexa with Gabriella Kazai and Emine Yilmaz.
-During my master's, I interned at [LIIR at KU Leuven](https://liir.cs.kuleuven.be/) under supervision of [Artuur Leeuwenberg](https://scholar.google.com/citations?user=6LJOqYwAAAAJ&hl=nl) and [Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/). Apart from that, in summer 2018, I interned at ETH Zurch with [Gunnar Rätsch](https://scholar.google.com/citations?user=tQuQ1FwAAAAJ).
-Before my master's, I got a bachelor's degree in [Computational Linguistics](https://education.nsu.ru/linguistics/) at Novosibirsk State University (Novosibirsk, Russia).
+During my master's, I interned at [LIIR at KU Leuven](https://liir.cs.kuleuven.be/) under the supervision of [Artuur Leeuwenberg](https://scholar.google.com/citations?user=6LJOqYwAAAAJ&hl=nl) and [Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/). Apart from that, in summer 2018, I interned at ETH Zurch with [Gunnar Rätsch](https://scholar.google.com/citations?user=tQuQ1FwAAAAJ).
 I was born in Ukraine and grew up in the Far North of Siberia, Russia.
 
 More details are in my [CV](/files/cv.pdf).
@@ -26,7 +25,12 @@ Feel free to reach out for research discussions, collaborations or just to have 
 ## NEWS
 
 ---
-**Jul 3, 2023**: I have started my research internship at Bloomberg AI in London. I am collaborating with [Shuo Zhang](https://imsure318.github.io), [Ridho Reinanda](https://scholar.google.com/citations?user=iJALtJ0AAAAJ&hl=en), [Mohamed Yahya)(https://scholar.google.com/citations?user=IxlyrFgAAAAJ&hl=en), and [Edgar Meij](https://scholar.google.com/citations?user=vb6YKF0AAAAJ&hl=en).
+**Jul 3, 2023**: I have started my research internship at Bloomberg AI in London. I am collaborating with
+[Shuo Zhang](https://imsure318.github.io),
+[Ridho Reinanda](https://scholar.google.com/citations?user=iJALtJ0AAAAJ&hl=en),
+[Mohamed Yahya](https://scholar.google.com/citations?user=IxlyrFgAAAAJ&hl=en), 
+and 
+[Edgar Meij](https://scholar.google.com/citations?user=vb6YKF0AAAAJ&hl=en).
 
 ---
 **December 13, 2022**: Happy to share that our paper [Scene-centric vs. Object-centric Image-Text Cross-modal Retrieval: A Reproducibility Study](/files/ecir23.pdf) got accepted at ECIR 2023. See you in Dublin!
