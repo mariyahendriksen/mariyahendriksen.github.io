@@ -19,7 +19,7 @@ Fashion Search with Multi-level Features. In Proceedings of the 2021 SIGIR Works
 
 
 **Mariya Hendriksen**, Ernst Kuiper, Pim Nauts, Sebastian Schelter, and Maarten de Rijke. Analyzing and Predicting
-Purchase Intent in E-commerce: Anonymous vs. Identified Customers. In Proceedings of the 2020 SIGIR Workshop on eCommerce. July 2020 [[paper](/files/sigir20.pdf), [code](https://github.com/mariyahendriksen/purchase_intent_in_e_commerce)]
+Purchase Intent in E-commerce: Anonymous vs. Identified Customers. In Proceedings of the 2020 SIGIR Workshop on eCommerce. July 2020 [[paper](/files/sigir20.pdf), [code](https://github.com/mariyahendriksen/purchase_intent_in_e_commerce)] [related work](/files/mozhdeh-ariannezhad-phd-thesis-2023.pdf)]
 
 **Mariya Hendriksen**, Artuur Leeuwenberg, and Marie-Francine Moens. LSTM for Dialogue Breakdown Detection:
 Exploration of Different Model Types and Word Embeddings. In procedings of the 10th International Workshop on Spoken Dialogue Systems. Springer Singapore, April 2019.
