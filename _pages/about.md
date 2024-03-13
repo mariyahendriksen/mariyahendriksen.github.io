@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the University of Amsterdam where I work on multimodal machine learning in the context of information retrieval. I am supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/), and mentored by [Andrew Yates](https://andrewyates.net/) and [Svitlana Vakulenko](https://svakulenk0.github.io).
+I am a Ph.D. student at the University of Amsterdam where I work on multimodal machine learning in the context of information retrieval. I am supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/), and mentored by [Andrew Yates](https://andrewyates.net/).
 
 I hold a master's degree in Artificial Intelligence from KU Leuven, Belgium, and a bachelor's degree in [Computational Linguistics](https://education.nsu.ru/linguistics/) from Novosibirsk State University (Novosibirsk, Russia).
-During my Ph.D., I interned at Amazon Alexa with Gabriella Kazai and Emine Yilmaz.
+During my Ph.D., I interned at Bloomberg AI with Shuo Zhang and Edgar Meij and at Amazon Alexa with Svitlana Vakulenko and Gabriella Kazai.
 During my master's, I interned at [LIIR at KU Leuven](https://liir.cs.kuleuven.be/) under the supervision of [Artuur Leeuwenberg](https://scholar.google.com/citations?user=6LJOqYwAAAAJ&hl=nl) and [Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/). Apart from that, in the summer of 2018, I interned at ETH Zurich with [Gunnar Rätsch](https://scholar.google.com/citations?user=tQuQ1FwAAAAJ).
 I was born in Ukraine and grew up in the Far North of Siberia, Russia.
 
@@ -21,6 +21,12 @@ Feel free to reach out for research discussions, collaborations or just to have 
 
 
 ## NEWS
+
+---
+**February 25, 2024**: Excited to announce my attendance at [ELLIS Winter School on Foundation Models](https://amsterdam-fomo.github.io/). Feel free to reach out if you'd like to connect or discuss related topics! 
+
+---
+**December 9, 2023**: Happy to share that our paper [Multimodal Learned Sparse Retrieval with Probabilistic Expansion Control](https://arxiv.org/abs/2402.17535) got accepted at ECIR 2024. See you in Glasgow!
 
 ---
 **Jul 3, 2023**: I have started my research internship at Bloomberg AI in London. I am collaborating with
