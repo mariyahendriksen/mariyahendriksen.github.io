@@ -23,10 +23,10 @@ Feel free to reach out for research discussions, collaborations or just to have 
 ## NEWS
 
 ---
-**2 April, 2024**: Happy to share that I am starting a research internship at Google in Zurich. I will be in Zurich until the middle of August, let me know if you want to meet up!
+**2 April, 2024**: Happy to share that I am starting a research internship at Google in Zurich.
 
 ---
-**25 February, 2024**: Excited to announce my attendance at [ELLIS Winter School on Foundation Models](https://amsterdam-fomo.github.io/). Feel free to reach out if you'd like to connect or discuss related topics! 
+**25 February, 2024**: Excited to announce my attendance at [ELLIS Winter School on Foundation Models](https://amsterdam-fomo.github.io/).
 
 ---
 **9 December, 2023**: Happy to share that our paper [Multimodal Learned Sparse Retrieval with Probabilistic Expansion Control](https://arxiv.org/abs/2402.17535) got accepted at ECIR 2024. See you in Glasgow!
