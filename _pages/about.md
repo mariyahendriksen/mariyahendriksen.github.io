@@ -23,13 +23,16 @@ Feel free to reach out for research discussions, collaborations or just to have 
 ## NEWS
 
 ---
-**February 25, 2024**: Excited to announce my attendance at [ELLIS Winter School on Foundation Models](https://amsterdam-fomo.github.io/). Feel free to reach out if you'd like to connect or discuss related topics! 
+**2 April, 2024**: Happy to share that I am starting a research internship at Google in Zurich. I will be in Zurich until the middle of August, let me know if you want to meet up!
 
 ---
-**December 9, 2023**: Happy to share that our paper [Multimodal Learned Sparse Retrieval with Probabilistic Expansion Control](https://arxiv.org/abs/2402.17535) got accepted at ECIR 2024. See you in Glasgow!
+**25 February, 2024**: Excited to announce my attendance at [ELLIS Winter School on Foundation Models](https://amsterdam-fomo.github.io/). Feel free to reach out if you'd like to connect or discuss related topics! 
 
 ---
-**Jul 3, 2023**: I have started my research internship at Bloomberg AI in London. I am collaborating with
+**9 December, 2023**: Happy to share that our paper [Multimodal Learned Sparse Retrieval with Probabilistic Expansion Control](https://arxiv.org/abs/2402.17535) got accepted at ECIR 2024. See you in Glasgow!
+
+---
+**3 July, 2023**: I have started my research internship at Bloomberg AI in London. I am collaborating with
 [Shuo Zhang](https://imsure318.github.io),
 [Ridho Reinanda](https://scholar.google.com/citations?user=iJALtJ0AAAAJ&hl=en),
 [Mohamed Yahya](https://scholar.google.com/citations?user=IxlyrFgAAAAJ&hl=en), 
@@ -37,25 +40,25 @@ and
 [Edgar Meij](https://scholar.google.com/citations?user=vb6YKF0AAAAJ&hl=en).
 
 ---
-**December 13, 2022**: Happy to share that our paper [Scene-centric vs. Object-centric Image-Text Cross-modal Retrieval: A Reproducibility Study](/files/ecir23.pdf) got accepted at ECIR 2023. See you in Dublin!
+**13 December, 2022**: Happy to share that our paper [Scene-centric vs. Object-centric Image-Text Cross-modal Retrieval: A Reproducibility Study](/files/ecir23.pdf) got accepted at ECIR 2023. See you in Dublin!
 
 ---
-**November 15, 2022**: I have started an internship in Alexa at Amazon Science in London. I am collaborating with [Svitlana Vakulenko](https://svakulenk0.github.io), Gabriella Kazai, and Emine Yilmaz.
+**15 November, 2022**: I have started an internship in Alexa at Amazon Science in London. I am collaborating with [Svitlana Vakulenko](https://svakulenk0.github.io), Gabriella Kazai, and Emine Yilmaz.
 
 ---
-**July 15, 2022**: Our team participated in Fashion Outfits Challenge, part of SIGIR 2022 Workshop on eCommerce. We published the paper ['Unimodal vs. Multimodal Siamese Networks for Outfit Completion'](/files/sigir22_ecom.pdf) detailing our solution.
+**15 July, 2022**: Our team participated in Fashion Outfits Challenge, part of SIGIR 2022 Workshop on eCommerce. We published the paper ['Unimodal vs. Multimodal Siamese Networks for Outfit Completion'](/files/sigir22_ecom.pdf) detailing our solution.
 
 ---
-**June 3, 2022**: I gave a talk about the paper ['Extending CLIP for Category-to-image Retrieval in E-commerce'](/files/ecir22.pdf) at Amazon Luxembourg.
+**3 June, 2022**: I gave a talk about the paper ['Extending CLIP for Category-to-image Retrieval in E-commerce'](/files/ecir22.pdf) at Amazon Luxembourg.
 
 ---
-**December 10, 2021**: Happy to share that work ['Multimodal Retrieval in E-commerce: from Categories to Images, Text, and Back'](/files/DC_note.pdf) was accepted for presentation at the ECIR 2022 Doctoral Consortium.
+**10 December, 2021**: Happy to share that work ['Multimodal Retrieval in E-commerce: from Categories to Images, Text, and Back'](/files/DC_note.pdf) was accepted for presentation at the ECIR 2022 Doctoral Consortium.
 
 ---
-**November 19, 2021**: Excited to share that our paper ['Extending CLIP for Category-to-image Retrieval in E-commerce'](/files/ecir22.pdf) was accepted to the main paper track at ECIR 2022.
+**19 November, 2021**: Excited to share that our paper ['Extending CLIP for Category-to-image Retrieval in E-commerce'](/files/ecir22.pdf) was accepted to the main paper track at ECIR 2022.
 
 ---
-**June 10, 2020**: Our paper ['Analyzing and Predicting Purchase Intent in E-commerce: Anonymous vs. Identified Customers'](/files/sigir20.pdf) was accepted to SIGIR 2020 Workshop on eCommerce.
+**10 June, 2020**: Our paper ['Analyzing and Predicting Purchase Intent in E-commerce: Anonymous vs. Identified Customers'](/files/sigir20.pdf) was accepted to SIGIR 2020 Workshop on eCommerce.
 
 ---
-**April 28, 2020**: I will be attending MLSS 2020.
+**28 April, 2020**: I will be attending MLSS 2020.
