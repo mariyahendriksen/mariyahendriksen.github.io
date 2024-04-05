@@ -11,9 +11,11 @@ redirect_from:
 I am a Ph.D. student at the University of Amsterdam where I work on multimodal machine learning in the context of information retrieval. I am supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/), and mentored by [Andrew Yates](https://andrewyates.net/).
 
 I hold a master's degree in Artificial Intelligence from KU Leuven, Belgium, and a bachelor's degree in [Computational Linguistics](https://education.nsu.ru/linguistics/) from Novosibirsk State University (Novosibirsk, Russia).
-During my Ph.D., I interned at Bloomberg AI with Shuo Zhang and Edgar Meij and at Amazon Alexa with Svitlana Vakulenko and Gabriella Kazai.
-During my master's, I interned at [LIIR at KU Leuven](https://liir.cs.kuleuven.be/) under the supervision of [Artuur Leeuwenberg](https://scholar.google.com/citations?user=6LJOqYwAAAAJ&hl=nl) and [Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/). Apart from that, in the summer of 2018, I interned at ETH Zurich with [Gunnar Rätsch](https://scholar.google.com/citations?user=tQuQ1FwAAAAJ).
+I am a current intern at Google where I am part of the Gemini team.
+Besides, during my Ph.D., I interned at Bloomberg AI with Shuo Zhang and Edgar Meij and at Amazon Alexa with Svitlana Vakulenko and Gabriella Kazai.
+During my master's, I interned at [LIIR at KU Leuven](https://liir.cs.kuleuven.be/) under the supervision of [Artuur Leeuwenberg](https://scholar.google.com/citations?user=6LJOqYwAAAAJ&hl=nl) and [Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/). Apart from that, in the summer of 2018, I interned at ETH Zurich with [Gunnar Rätsch](https://scholar.google.com/citations?user=tQuQ1FwAAAAJ). 
 I was born in Ukraine and grew up in the Far North of Siberia, Russia.
+I am committed to creating a workspace that is both diverse and inclusive. As such, I am a mentor within the [Inclusive AI](https://ivi.fnwi.uva.nl/ellis/inclusive-ai/) initiative.
 
 More details are in my [CV](/files/cv.pdf).
 
@@ -23,7 +25,7 @@ Feel free to reach out for research discussions, collaborations or just to have 
 ## NEWS
 
 ---
-**2 April, 2024**: I am starting a research internship at Google in Zurich.
+**2 April, 2024**: I am starting a research internship at Google in Zurich. I am part of the Gemini team. If you are in Zurich and would like to chat/meet, let me know!
 
 ---
 **25 February, 2024**: I am attending [ELLIS Winter School on Foundation Models](https://amsterdam-fomo.github.io/).
