@@ -1,0 +1,7 @@
+@article{bleekerhendriksen2024demonstrating,
+  title={Demonstrating and Reducing Shortcuts in Vision-Language Representation Learning},
+  author={Bleeker, Maurits and Hendriksen, Mariya and Yates, Andrew and de Rijke, Maarten},
+  journal={Transactions on Machine Learning Research},
+  url={https://openreview.net/forum?id=gfANevPraH},
+  year={2024}
+}
