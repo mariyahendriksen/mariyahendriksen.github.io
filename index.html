@@ -8,9 +8,90 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
+      
+      // Enhanced configuration
+      gtag('config', 'G-R8H6D3D4TW', {
+        'send_page_view': true,
+        'engagement_time_msec': 100,
+        'link_attribution': true,
+        'allow_enhanced_conversions': true,
+        'custom_map': {
+          'dimension1': 'page_section',
+          'dimension2': 'visitor_type'
+        }
+      });
 
-      gtag('config', 'G-R8H6D3D4TW');
+      // scroll
+      let scrollTracked = false;
+      window.addEventListener('scroll', function() {
+        const scrollPercent = (window.scrollY / (document.documentElement.scrollHeight - window.innerHeight)) * 100;
+        
+        if (scrollPercent > 75 && !scrollTracked) {
+          gtag('event', 'scroll', {
+            'event_category': 'engagement',
+            'event_label': '75% scroll',
+            'value': 75
+          });
+          scrollTracked = true;
+        }
+      });
+
+      // time
+      let startTime = new Date();
+      window.addEventListener('beforeunload', function() {
+        const timeOnPage = Math.round((new Date() - startTime) / 1000);
+        gtag('event', 'time_on_page', {
+          'event_category': 'engagement',
+          'event_label': 'seconds',
+          'value': timeOnPage
+        });
+      });
+
+      // file downloads
+      document.addEventListener('click', function(e) {
+        const link = e.target.closest('a');
+        if (link && link.href) {
+          // Track PDF downloads
+          if (link.href.endsWith('.pdf')) {
+            gtag('event', 'file_download', {
+              'event_category': 'downloads',
+              'event_label': link.href,
+              'file_name': link.href.split('/').pop()
+            });
+          }
+          
+          // outbound links
+          if (link.hostname !== window.location.hostname) {
+            gtag('event', 'click', {
+              'event_category': 'outbound',
+              'event_label': link.href,
+              'transport_type': 'beacon'
+            });
+          }
+          
+          // specific links
+          const linkText = link.textContent.trim();
+          if (['Scholar', 'GitHub', 'Email', 'Bsky', 'X'].includes(linkText)) {
+            gtag('event', 'social_click', {
+              'event_category': 'social_media',
+              'event_label': linkText
+            });
+          }
+        }
+      });
+
+      // paper title
+      document.addEventListener('click', function(e) {
+        if (e.target.classList.contains('papertitle') || e.target.closest('.papertitle')) {
+          const paperTitle = e.target.textContent.trim();
+          gtag('event', 'paper_click', {
+            'event_category': 'research',
+            'event_label': paperTitle
+          });
+        }
+      });
     </script>
+
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
