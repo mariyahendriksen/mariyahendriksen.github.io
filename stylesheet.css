@@ -1,105 +1,81 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
-/* latin-ext */
 @font-face {
-  font-family: 'Lato';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Lato Italic'), local('Lato-Italic'), url(https://fonts.gstatic.com/s/lato/v15/S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Lato';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Lato Italic'), local('Lato-Italic'), url(https://fonts.gstatic.com/s/lato/v15/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Lato';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(https://fonts.gstatic.com/s/lato/v15/S6u_w4BMUTPHjxsI5wq_FQftx9897sxZ.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Lato';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(https://fonts.gstatic.com/s/lato/v15/S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Lato';
+  font-family: 'Source Serif Pro';
   font-style: normal;
   font-weight: 400;
-  src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v15/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/sourceserifpro/v18/neIQzD-0qpwxpaWvjeD0X88SAOeauXk-oAGIyY0Wfw.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
-/* latin */
+/* cyrillic */
 @font-face {
-  font-family: 'Lato';
+  font-family: 'Source Serif Pro';
   font-style: normal;
   font-weight: 400;
-  src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v15/S6uyw4BMUTPHjx4wXiWtFCc.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/sourceserifpro/v18/neIQzD-0qpwxpaWvjeD0X88SAOeauXA-oAGIyY0Wfw.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/sourceserifpro/v18/neIQzD-0qpwxpaWvjeD0X88SAOeauXc-oAGIyY0Wfw.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/sourceserifpro/v18/neIQzD-0qpwxpaWvjeD0X88SAOeauXs-oAGIyY0Wfw.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Lato';
+  font-family: 'Source Serif Pro';
   font-style: normal;
-  font-weight: 700;
-  src: local('Lato Bold'), local('Lato-Bold'), url(https://fonts.gstatic.com/s/lato/v15/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/sourceserifpro/v18/neIQzD-0qpwxpaWvjeD0X88SAOeauXo-oAGIyY0Wfw.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
 @font-face {
-  font-family: 'Lato';
+  font-family: 'Source Serif Pro';
   font-style: normal;
-  font-weight: 700;
-  src: local('Lato Bold'), local('Lato-Bold'), url(https://fonts.gstatic.com/s/lato/v15/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/sourceserifpro/v18/neIQzD-0qpwxpaWvjeD0X88SAOeauXQ-oAGIyY0.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
 /* CSS Variables for theme colors */
 :root {
-  --bg-color: #ffffff;
-  --text-color: #2d3748;
-  --text-secondary: #718096;
+  --bg-color: #f0f3f5;
+  --text-color: #1b3553;
+  --text-secondary: #A4C3B2;
   --text-light: #a0aec0;
-  --link-color: #1772d0;        /* blue */
-  --link-hover: #f09228;        /* orange */
+  --link-color: #4080a0;        /* steel blue */
+  --link-hover: #6a6b68;        /* grey olive */
   --border-color: #e2e8f0;
   --card-bg: #ffffff;
   --shadow: rgba(0, 0, 0, 0.1);
   --highlight-bg: #ffffd0;      /* highlight */
-  
-  /* Typography variables */
-  --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-  --font-mono: 'JetBrains Mono', 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace;
-  --font-size-xs: 0.6875rem;   /* 11px */
-  --font-size-sm: 0.8125rem;   /* 13px */
-  --font-size-base: 0.875rem;  /* 14px */
-  --font-size-lg: 1rem;        /* 16px */
-  --font-size-xl: 1.125rem;    /* 18px */
-  --font-size-2xl: 1.25rem;    /* 20px */
-  --font-size-3xl: 1.5rem;     /* 24px */
-  --font-size-4xl: 1.875rem;   /* 30px */
-}
 
-.dark {
-  --bg-color: #1a1a1a;
-  --text-color: #e0e0e0;
-  --text-secondary: #b0b0b0;
-  --link-color: #64b5f6;        /* Light blue for dark mode */
-  --link-hover: #ffb74d;        /* Light orange for dark mode */
-  --border-color: #333333;
-  --card-bg: #2a2a2a;
-  --shadow: rgba(255, 255, 255, 0.1);
-  --highlight-bg: #3a3a00;      /* Dark mode highlight */
+  /* Typography variables */
+  --font-primary: 'Source Serif Pro', Georgia, serif;
+  --font-mono: 'JetBrains Mono', 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace;
+  --font-size-xs: 11px;
+  --font-size-sm: 12px;
+  --font-size-base: 15px;
+  --font-size-lg: 16px;
+  --font-size-xl: 20px;
+  --font-size-2xl: 22px;
+  --font-size-3xl: 24px;
+  --font-size-4xl: 36px;
 }
 
 /* UPDATED: Use CSS variables instead of hardcoded colors */
@@ -136,7 +112,7 @@ a {
 a {
   color: var(--link-color);
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 600;
   transition: all 0.25s ease;
   border-bottom: 1px solid transparent;
 }
@@ -152,7 +128,7 @@ a:hover {
 strong {
   font-family: var(--font-primary);
   font-size: inherit;
-  font-weight: 600;
+  font-weight: 900;
   color: var(--text-color);
 }
 
@@ -352,18 +328,6 @@ a:focus, button:focus {
   }
 }
 
-/* Paper reveal animations */
-.paper-item {
-  opacity: 0;
-  transform: translateY(30px);
-  transition: all 0.6s cubic-bezier(0.4, 0, 0.2, 1);
-  transition-delay: 0s;
-}
-
-.paper-item.reveal {
-  opacity: 1;
-  transform: translateY(0);
-}
 
 /* Staggered animation delays for multiple papers */
 .paper-item:nth-child(1) { transition-delay: 0ms; }
@@ -374,73 +338,6 @@ a:focus, button:focus {
 .paper-item:nth-child(6) { transition-delay: 500ms; }
 .paper-item:nth-child(7) { transition-delay: 600ms; }
 .paper-item:nth-child(8) { transition-delay: 700ms; }
-
-/* slide-in-from-left animation */
-.paper-item.slide-left {
-  opacity: 0;
-  transform: translateX(-50px);
-  transition: all 0.7s cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.paper-item.slide-left.reveal {
-  opacity: 1;
-  transform: translateX(0);
-}
-
-/* fade-in-scale animation */
-.paper-item.scale-in {
-  opacity: 0;
-  transform: scale(0.95);
-  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.paper-item.scale-in.reveal {
-  opacity: 1;
-  transform: scale(1);
-}
-
-/* hover effect for revealed papers */
-.paper-item.reveal:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 10px 25px var(--shadow);
-  transition: all 0.3s ease;
-}
-
-/* Section title animations */
-.section-title {
-  opacity: 0;
-  transform: translateY(20px);
-  transition: all 0.6s cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.section-title.reveal {
-  opacity: 1;
-  transform: translateY(0);
-}
-
-/* News items animation */
-.news-item {
-  opacity: 0;
-  transform: translateX(-30px);
-  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.news-item.reveal {
-  opacity: 1;
-  transform: translateX(0);
-}
-
-/* Profile section animation */
-.profile-content {
-  opacity: 0;
-  transform: translateY(40px);
-  transition: all 0.8s cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.profile-content.reveal {
-  opacity: 1;
-  transform: translateY(0);
-}
 
 /* Reduced motion */
 @media (prefers-reduced-motion: reduce) {
