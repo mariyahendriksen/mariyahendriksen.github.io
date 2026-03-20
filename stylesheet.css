@@ -350,3 +350,13 @@ a:focus, button:focus {
     transform: none;
   }
 }
+/* Remove bullets from news item */
+.news-item {
+  list-style: none;
+    margin-left: -40px;
+}
+
+footer a:hover {
+  color: #555;
+  text-decoration: underline;
+}
